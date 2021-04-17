@@ -1,4 +1,4 @@
-# not much original code here, just to make a final set 
+# not much original code here, just to make a final set of 4 python files, one each for audio,video,pdf and images
 
 import requests as r
 
